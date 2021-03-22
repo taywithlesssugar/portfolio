@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Interactive Dashboard with Excel](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Querying with SQL](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
